@@ -1,4 +1,0 @@
-inter-game
-==========
-
-Interpersonal Game
